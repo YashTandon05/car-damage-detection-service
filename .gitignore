@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# never commits datasets
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+models/*.pt
+models/*.pth
+
+.DS_Store
