@@ -18,7 +18,7 @@ STANFORD_TEST_DIR  = REPO_ROOT / "data" / "raw" / "stanford_cars" / "cars_test" 
 SPLITS_DIR = REPO_ROOT / "data" / "splits"
 SPLITS_DIR.mkdir(parents=True, exist_ok=True)
 
-CANON_TYPES = {"dent", "scratch", "crack", "glass_shatter", "lamp_broken", "tire_flat"}
+CANON_TYPES = {"dent", "scratch", "crack", "glass shatter", "lamp broken", "tire flat"}
 
 def load_coco_type_rows(split: str) -> pd.DataFrame:
     """

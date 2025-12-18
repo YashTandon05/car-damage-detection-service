@@ -1,6 +1,15 @@
 image_path,label
-data/raw/car_dd/CarDD_COCO/train/000001.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000001.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000002.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000003.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000004.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000005.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000006.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000007.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/000008.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/000009.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000010.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000011.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/000014.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000018.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000019.jpg,scratch
@@ -15,94 +24,219 @@ data/raw/car_dd/CarDD_COCO/train/000030.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000031.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000032.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000036.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000037.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000039.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000037.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000039.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000041.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000043.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000045.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000046.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000048.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000049.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000050.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000052.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000051.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000052.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000053.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000055.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000056.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000061.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000062.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000063.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000064.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000065.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000066.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000066.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000067.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000068.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000069.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000070.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000071.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000072.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000073.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000074.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000075.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000076.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000077.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000078.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000079.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000081.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000085.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000087.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000092.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000093.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000094.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000095.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000096.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000098.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000099.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000100.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000101.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000104.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/000108.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000111.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000112.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000113.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000113.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000114.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000115.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000116.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000117.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000117.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000118.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000119.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000120.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000121.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000122.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000123.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000124.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000125.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/000126.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000127.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000129.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000131.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000132.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000133.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000134.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000133.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000134.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000135.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000138.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000139.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000140.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000141.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000142.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000143.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000144.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000145.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000147.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000148.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000150.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000151.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000153.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000155.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000154.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000155.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000158.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000160.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000161.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000162.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000163.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000164.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000168.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000169.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000170.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000171.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000172.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000173.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000174.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000178.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000179.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000180.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000181.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000182.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000183.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000184.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000188.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000189.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000190.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000194.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000195.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000195.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000196.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000197.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000198.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000199.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000200.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000201.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000202.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000203.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000207.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000208.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000209.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000210.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000211.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000212.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000213.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000217.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000218.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000219.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000220.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000221.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000222.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000223.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000227.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000228.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000229.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000230.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000231.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000232.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000234.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000236.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000238.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000236.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000238.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000240.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000245.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000246.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000247.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000248.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000249.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000250.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000251.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000252.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000256.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000257.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000258.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000261.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000262.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000263.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000264.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000265.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000266.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000269.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000275.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000276.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000281.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000273.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000274.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000275.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000276.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000277.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000279.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000280.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000281.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000282.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000283.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000284.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000285.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000286.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000287.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000291.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000292.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000295.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000296.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000298.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000302.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000303.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000303.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000304.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000305.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000306.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000307.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000308.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000309.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000313.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000314.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000315.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000316.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000317.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000318.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000319.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000323.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000324.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000325.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000326.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000327.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000328.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000329.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000333.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000334.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000335.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000336.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000337.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000338.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000339.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000344.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000345.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/000346.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/000349.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/000351.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000351.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000357.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000358.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000359.jpg,crack
@@ -116,18 +250,21 @@ data/raw/car_dd/CarDD_COCO/train/000366.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000367.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000368.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000369.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000370.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000371.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000372.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000372.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000373.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000374.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000374.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000375.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000377.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000379.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000380.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000382.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000380.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000382.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000383.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000384.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000386.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000388.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000389.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000389.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000390.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000391.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000392.jpg,dent
@@ -135,29 +272,37 @@ data/raw/car_dd/CarDD_COCO/train/000393.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000394.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000395.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000396.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000397.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000398.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000399.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000401.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000401.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000402.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000403.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000406.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000408.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000406.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000408.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000409.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000410.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000411.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000412.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000412.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000413.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000414.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000416.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000419.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000416.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000419.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000420.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000421.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000425.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000428.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000429.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000430.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000430.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000431.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000432.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000434.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000435.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000436.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000437.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000438.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000440.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000441.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000440.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000441.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000442.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000443.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000444.jpg,scratch
@@ -169,38 +314,48 @@ data/raw/car_dd/CarDD_COCO/train/000450.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000451.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000453.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000455.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000456.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000456.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000457.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000458.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000458.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000459.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000460.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000461.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000462.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000463.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000464.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000465.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000467.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000471.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000472.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000473.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000474.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000476.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000477.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000478.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000479.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000480.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000484.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000485.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000486.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000487.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000489.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000490.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000494.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000496.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000498.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000499.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000501.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000500.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000501.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000502.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000503.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000504.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000505.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000506.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000505.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000506.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000507.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000508.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000509.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000510.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/000511.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000511.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000512.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000518.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000519.jpg,dent
@@ -208,21 +363,24 @@ data/raw/car_dd/CarDD_COCO/train/000522.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000523.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000525.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000526.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000527.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000530.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000527.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000528.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000529.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000530.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000533.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000534.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000535.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000535.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000536.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000539.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000540.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000543.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000545.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000546.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000547.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000548.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000549.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000551.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000553.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000553.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000554.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000555.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000556.jpg,scratch
@@ -230,101 +388,186 @@ data/raw/car_dd/CarDD_COCO/train/000557.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000558.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000559.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000560.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000562.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000562.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000563.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000564.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000566.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000568.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000569.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000574.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000580.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000581.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000582.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000583.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000584.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000585.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000586.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000587.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000588.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/000590.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000591.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000592.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000593.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000594.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000596.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000597.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000598.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000599.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000600.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000601.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000602.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/000606.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000607.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000608.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000609.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000612.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000608.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000609.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000610.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000612.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000613.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000615.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000616.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000617.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/000618.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000619.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000620.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000621.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000622.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000624.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000623.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000624.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000627.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000628.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/000629.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000630.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000633.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000634.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000635.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000636.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000637.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000637.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000639.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000642.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000643.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000644.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000645.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000645.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000646.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000647.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000647.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000649.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000650.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000651.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000652.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000654.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000656.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000657.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000658.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000662.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/000663.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000664.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000665.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000666.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000667.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000668.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000669.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000673.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000674.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000675.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000676.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/000677.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000679.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000680.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000681.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000682.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000683.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000684.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000684.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000685.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000686.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000690.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000688.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000689.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000690.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000691.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000692.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000694.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000695.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000697.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000697.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000701.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000705.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000706.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000708.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000709.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000710.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000714.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000711.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000712.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000713.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000714.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000715.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/000716.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000717.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000718.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000719.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000723.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000724.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000725.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000726.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000727.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000728.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000729.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000733.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000734.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000735.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000736.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000737.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000738.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000739.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000741.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000742.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000743.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000744.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000745.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000746.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000747.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000752.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/000753.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000754.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000755.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000756.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000757.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000758.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000759.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000759.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000760.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000761.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000762.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000763.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000763.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000764.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000765.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000768.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000770.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000771.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000772.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000773.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000774.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000775.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000776.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000777.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/000779.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000781.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000780.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000781.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/000782.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000783.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000785.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000786.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000788.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000791.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000792.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000793.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000794.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000795.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/000797.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000798.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000799.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000800.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000804.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000805.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000806.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000801.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000802.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000803.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000804.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000805.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000806.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000807.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000808.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000813.jpg,scratch
@@ -337,6 +580,10 @@ data/raw/car_dd/CarDD_COCO/train/000819.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000820.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000821.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000823.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000826.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000827.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000828.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000829.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/000830.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000833.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000837.jpg,scratch
@@ -350,37 +597,47 @@ data/raw/car_dd/CarDD_COCO/train/000844.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000845.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000846.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000847.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/000849.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000863.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000864.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000849.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000850.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000851.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000854.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000855.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000861.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000862.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000863.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000864.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000865.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000866.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000867.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/000868.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000868.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/000870.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000871.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000871.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000872.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000873.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000874.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000874.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000877.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000878.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000879.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/000880.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000880.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000881.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000882.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000884.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/000885.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000887.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000888.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000893.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000894.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000895.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000896.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000897.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000898.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000899.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000900.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000901.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000902.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000903.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000904.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/000907.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000907.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000908.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000911.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000912.jpg,crack
@@ -389,7 +646,7 @@ data/raw/car_dd/CarDD_COCO/train/000915.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000916.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000917.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000918.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000919.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000919.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000920.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000921.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000922.jpg,dent
@@ -399,69 +656,138 @@ data/raw/car_dd/CarDD_COCO/train/000925.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000927.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000936.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000937.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000938.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000938.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000939.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000940.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000941.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000942.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000943.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000944.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000945.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000946.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000951.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000953.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000947.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000948.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000949.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000951.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000953.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000954.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000955.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000955.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000956.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000959.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000961.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000962.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000963.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000964.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000973.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000964.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000966.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000967.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000968.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/000973.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000975.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000977.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000978.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000978.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000979.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/000980.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000981.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/000982.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000982.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/000983.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/000984.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/000985.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/000986.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000987.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000991.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/000992.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000993.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000994.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/000995.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/000995.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/000997.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/000998.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/000999.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001001.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001003.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001004.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001005.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001009.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001010.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001011.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001012.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001013.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001014.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001015.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001019.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001020.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001021.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001022.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001023.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/001027.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001028.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001029.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001030.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001031.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/001032.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/001033.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001034.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001035.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001036.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/001037.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/001038.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/001041.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001042.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001044.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/001046.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001047.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001048.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001049.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/001050.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001051.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001052.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001053.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001054.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001059.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001066.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001103.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001055.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001056.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001057.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001059.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001064.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001065.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001066.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001067.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001068.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001069.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001070.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001072.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001073.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001074.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001075.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001076.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001077.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001080.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001081.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001082.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001083.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001084.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001085.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001086.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001091.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001092.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001093.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001094.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001095.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001096.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001097.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001101.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001102.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001103.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001104.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/001106.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001107.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001110.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001111.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/001112.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001112.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001113.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001114.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001115.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001116.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001119.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001117.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/001119.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001121.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001123.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001125.jpg,scratch
@@ -469,55 +795,90 @@ data/raw/car_dd/CarDD_COCO/train/001126.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001127.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001129.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001132.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001133.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001133.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001136.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001137.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001138.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/001139.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001140.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/001142.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/001143.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001144.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001145.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001146.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001146.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001147.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001148.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001149.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001150.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001151.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001153.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001154.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001155.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001156.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001157.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001154.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001155.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/001156.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001157.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001158.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001160.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001161.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/001162.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001165.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001166.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/001167.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001173.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001170.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001173.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001174.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/001177.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001178.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001179.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001181.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001183.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001184.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/001186.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001187.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/001188.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/001189.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001190.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001194.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/001195.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001200.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001201.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001202.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001203.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/001204.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001205.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001206.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001205.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001206.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001207.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/001208.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/001209.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001210.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001211.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001212.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001214.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001218.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/001220.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001221.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001222.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/001223.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001224.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001225.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001226.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001227.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001227.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001228.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001229.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001230.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001231.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001232.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001233.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001234.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/001235.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001237.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001238.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001239.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/001241.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001241.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/001247.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001249.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001252.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001250.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001251.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001252.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001253.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001254.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001255.jpg,scratch
@@ -530,7 +891,8 @@ data/raw/car_dd/CarDD_COCO/train/001265.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001266.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001271.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001274.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001276.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001275.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001276.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001277.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001278.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001279.jpg,dent
@@ -566,17 +928,17 @@ data/raw/car_dd/CarDD_COCO/train/001323.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001324.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001325.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001326.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001332.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001332.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001333.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001334.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001335.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001335.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001336.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001337.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001338.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001339.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001340.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001342.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001343.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001343.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001344.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001346.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001347.jpg,dent
@@ -584,13 +946,13 @@ data/raw/car_dd/CarDD_COCO/train/001348.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001349.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001350.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001351.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001352.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001353.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001354.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001355.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001352.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001353.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001354.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001355.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001356.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001357.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001359.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001359.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001360.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001362.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001363.jpg,scratch
@@ -598,39 +960,70 @@ data/raw/car_dd/CarDD_COCO/train/001364.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001365.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001366.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001371.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001384.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001385.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001376.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001377.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/001378.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/001380.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/001381.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/001382.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/001383.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001384.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001385.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001386.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001389.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001391.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001408.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001410.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001412.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001387.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001388.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001389.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001390.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001391.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001392.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001393.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001395.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001397.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001399.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001401.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/001403.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001404.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001405.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001406.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001407.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001408.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001410.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001412.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001413.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001414.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001415.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001416.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001417.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001418.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001419.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001421.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001423.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/001425.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001426.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001427.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001429.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001430.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/001432.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001433.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/001435.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001436.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001434.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001435.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001436.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001438.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001439.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/001441.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001443.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001444.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001446.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001446.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001447.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001448.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001449.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001449.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001450.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001451.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001452.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001454.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001457.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001455.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001457.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/001458.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001460.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001461.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001462.jpg,scratch
@@ -651,16 +1044,18 @@ data/raw/car_dd/CarDD_COCO/train/001476.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001477.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001478.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001479.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/001480.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001480.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001481.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001482.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001482.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001485.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001486.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001487.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001487.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001490.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001491.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001492.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/001495.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001495.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001496.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001497.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001498.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001499.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001500.jpg,scratch
@@ -672,21 +1067,21 @@ data/raw/car_dd/CarDD_COCO/train/001510.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001512.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001513.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001514.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/001515.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001515.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001516.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001518.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001519.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001520.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001520.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001521.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001522.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001523.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001526.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001527.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001527.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001528.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001529.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001530.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001532.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001533.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001533.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001534.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001535.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001544.jpg,scratch
@@ -702,15 +1097,18 @@ data/raw/car_dd/CarDD_COCO/train/001553.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001554.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001555.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001556.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001557.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001561.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001564.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001565.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001566.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001567.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001567.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001568.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001569.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001570.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001571.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001572.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001573.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001574.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001575.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001576.jpg,scratch
@@ -718,33 +1116,33 @@ data/raw/car_dd/CarDD_COCO/train/001577.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001578.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001579.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001580.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001581.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001581.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001584.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001585.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001586.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001590.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001591.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001586.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001590.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001591.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001592.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001593.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001597.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001597.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001598.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001600.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001601.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001601.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001602.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001603.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001604.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001604.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001605.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001606.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001607.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001608.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001609.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001609.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001611.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001613.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001615.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001616.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001620.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001621.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001622.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001621.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001622.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001623.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001624.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001625.jpg,scratch
@@ -754,7 +1152,7 @@ data/raw/car_dd/CarDD_COCO/train/001629.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001630.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001631.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001632.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001636.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001636.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001638.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001639.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001640.jpg,dent
@@ -762,72 +1160,86 @@ data/raw/car_dd/CarDD_COCO/train/001644.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001645.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001646.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001647.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001648.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001650.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001648.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001650.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001651.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001653.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001654.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001653.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001654.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001655.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/001656.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/001657.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001658.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/001659.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001662.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001663.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001664.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001666.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001667.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001668.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001675.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001676.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001667.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001668.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001669.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001675.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001676.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001677.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001678.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001679.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001680.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001681.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001683.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001685.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001687.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/001688.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001690.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001691.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/001692.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001693.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/001694.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001695.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001696.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001697.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001698.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001699.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001700.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001700.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001703.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001705.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001706.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001707.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001705.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/001706.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/001707.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001708.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001710.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001712.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/001713.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001715.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001717.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001713.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001715.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001717.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001718.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001719.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001723.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001724.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001725.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001726.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001730.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001731.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/001732.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001733.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001732.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001733.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001734.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001735.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001736.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001737.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001738.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001738.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001739.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001740.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001741.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001742.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001743.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001744.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001744.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001745.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001749.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001750.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001752.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001753.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001754.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001755.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001755.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/001756.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001757.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001758.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001758.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001760.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001761.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001762.jpg,dent
@@ -836,14 +1248,14 @@ data/raw/car_dd/CarDD_COCO/train/001764.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001765.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001766.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001767.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001769.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001769.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001773.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001774.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001774.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001775.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001776.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001777.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001778.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001779.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001779.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001780.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001781.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001782.jpg,scratch
@@ -856,7 +1268,7 @@ data/raw/car_dd/CarDD_COCO/train/001788.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001789.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001790.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001791.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001792.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001792.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001793.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001795.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001796.jpg,crack
@@ -868,7 +1280,7 @@ data/raw/car_dd/CarDD_COCO/train/001804.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001805.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001806.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001807.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001808.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001808.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001813.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001814.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001816.jpg,scratch
@@ -879,7 +1291,7 @@ data/raw/car_dd/CarDD_COCO/train/001821.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001824.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001826.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001827.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001828.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001828.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001829.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001830.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001831.jpg,dent
@@ -898,20 +1310,20 @@ data/raw/car_dd/CarDD_COCO/train/001858.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001859.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001860.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001861.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/001862.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001863.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001862.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001863.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001864.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001865.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001866.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001867.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001868.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001869.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001870.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001869.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001870.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001871.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001872.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001872.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001873.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001875.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001876.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001875.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001876.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001877.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001878.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001881.jpg,dent
@@ -921,31 +1333,32 @@ data/raw/car_dd/CarDD_COCO/train/001884.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001886.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001887.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001889.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001891.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001891.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001892.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001893.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001894.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001895.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001896.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001897.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001897.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001898.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001901.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001902.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001903.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001904.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/001905.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001906.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001907.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001908.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001913.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001914.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001914.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001915.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001916.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001918.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001919.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001920.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001921.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001922.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001923.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001922.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001923.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001924.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001925.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001928.jpg,dent
@@ -955,7 +1368,7 @@ data/raw/car_dd/CarDD_COCO/train/001931.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001932.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001935.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001936.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001938.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001938.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001941.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001942.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001943.jpg,dent
@@ -963,59 +1376,60 @@ data/raw/car_dd/CarDD_COCO/train/001948.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001949.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001950.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001951.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001952.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001953.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001954.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001952.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001953.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001954.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001955.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001956.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001956.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001957.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001958.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001958.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001959.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001960.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001960.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001961.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/001964.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001965.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001964.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001965.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001966.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/001969.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/001970.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001971.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001972.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001973.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/001975.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001975.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/001976.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001977.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001978.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001978.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001983.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001985.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001986.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001987.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001988.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001989.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/001990.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/001990.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/001991.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001992.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001995.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001996.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/001998.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/001999.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002000.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002000.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002002.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002003.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002003.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002004.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002005.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002005.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002008.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002010.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002013.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002017.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002018.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002019.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002020.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002020.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/002021.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002022.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002023.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002024.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002025.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002026.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002027.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002027.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002028.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002029.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002030.jpg,crack
@@ -1025,11 +1439,11 @@ data/raw/car_dd/CarDD_COCO/train/002033.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002034.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002037.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002038.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002039.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002039.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002040.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002041.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002042.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002043.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002043.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002044.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002047.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002048.jpg,scratch
@@ -1045,10 +1459,11 @@ data/raw/car_dd/CarDD_COCO/train/002059.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002060.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002061.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002067.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/002068.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002069.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002071.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002074.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002075.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002075.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002077.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002078.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002079.jpg,scratch
@@ -1056,6 +1471,7 @@ data/raw/car_dd/CarDD_COCO/train/002080.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002081.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002082.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002084.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002085.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002089.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002097.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002099.jpg,scratch
@@ -1065,7 +1481,7 @@ data/raw/car_dd/CarDD_COCO/train/002103.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002104.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002105.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002106.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002107.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002107.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002108.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002109.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002110.jpg,scratch
@@ -1078,10 +1494,11 @@ data/raw/car_dd/CarDD_COCO/train/002117.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002118.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002119.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002120.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002121.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002121.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/002122.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002123.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002124.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002127.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002124.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002127.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002131.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002132.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002133.jpg,scratch
@@ -1089,9 +1506,9 @@ data/raw/car_dd/CarDD_COCO/train/002134.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002135.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002136.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002137.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002142.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002142.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002143.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002144.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002144.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002145.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002146.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002147.jpg,scratch
@@ -1107,14 +1524,14 @@ data/raw/car_dd/CarDD_COCO/train/002162.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002165.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002166.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002167.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002168.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002168.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002173.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002174.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002175.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002177.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002179.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002177.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002179.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002180.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002181.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002181.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002183.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002184.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002185.jpg,scratch
@@ -1134,20 +1551,20 @@ data/raw/car_dd/CarDD_COCO/train/002210.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002211.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002212.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002214.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002217.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002217.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002218.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002219.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002220.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002221.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002222.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002223.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002223.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002224.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002225.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002226.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002227.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002228.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002229.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002230.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002230.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002231.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002232.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002233.jpg,scratch
@@ -1156,13 +1573,14 @@ data/raw/car_dd/CarDD_COCO/train/002236.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002237.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002238.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002239.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002242.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002242.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002243.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002245.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002246.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002247.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002247.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002248.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002249.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002250.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002250.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002251.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002253.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002256.jpg,scratch
@@ -1171,9 +1589,13 @@ data/raw/car_dd/CarDD_COCO/train/002258.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002259.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002260.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002261.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002263.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002264.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002265.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/002266.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/002271.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002273.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/002274.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002277.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002281.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002282.jpg,dent
@@ -1188,66 +1610,70 @@ data/raw/car_dd/CarDD_COCO/train/002290.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002291.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002292.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002293.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002295.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002296.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002300.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002301.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002302.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002303.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002295.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002296.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002300.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002301.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002302.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002303.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002304.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002305.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002306.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002308.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002309.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002310.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002311.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002311.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002312.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002313.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002317.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002318.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002319.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002320.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002321.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002320.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002321.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002322.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002323.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002324.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002327.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002323.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002324.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002327.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002328.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002329.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002334.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002335.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002336.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002337.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002337.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002339.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002340.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002340.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002341.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002344.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002344.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002347.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002348.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002349.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002350.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002352.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002352.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002353.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/002354.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002355.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002354.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002355.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002357.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002360.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002360.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002362.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002364.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002365.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002366.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002367.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002368.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002369.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002368.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/002369.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002370.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002371.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002372.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002372.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002373.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002374.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002375.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002376.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002378.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002377.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002378.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/002379.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002383.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002384.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002386.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002386.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002387.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002388.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002390.jpg,scratch
@@ -1258,7 +1684,7 @@ data/raw/car_dd/CarDD_COCO/train/002395.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002396.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002397.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002398.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002399.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002399.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002400.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002401.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002402.jpg,dent
@@ -1274,67 +1700,74 @@ data/raw/car_dd/CarDD_COCO/train/002417.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002418.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002419.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002420.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002421.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002421.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002424.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/002425.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/002426.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/002428.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002429.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002430.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002431.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002432.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002433.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002433.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002434.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002435.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002436.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002437.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002438.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002443.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002444.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/002445.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002446.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002447.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002450.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002451.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002453.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002454.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002455.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002456.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002457.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002457.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002458.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002459.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002460.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002464.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002465.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002466.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002469.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002469.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002470.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002471.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002472.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002473.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002474.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002474.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002476.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002477.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002478.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002479.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002480.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002482.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002482.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002484.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002485.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002485.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002487.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002489.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002490.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002492.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002493.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002494.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002495.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002495.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002496.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002497.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002499.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002500.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002501.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002504.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002505.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002505.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002506.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002507.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002510.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002511.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002511.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/002512.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002513.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002518.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002513.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002518.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002519.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002520.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002522.jpg,scratch
@@ -1357,37 +1790,38 @@ data/raw/car_dd/CarDD_COCO/train/002541.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002542.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002543.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002544.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002548.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/002549.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002550.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002550.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002551.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002554.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002555.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002556.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002557.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002558.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/002559.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002559.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002560.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002563.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002564.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002565.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002566.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/002569.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002569.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002570.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002572.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002574.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002576.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002578.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002580.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002581.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002582.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002581.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/002582.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002583.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002584.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002585.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002584.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002585.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002586.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002587.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002588.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002589.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002591.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002589.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002591.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002592.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002593.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002594.jpg,dent
@@ -1399,17 +1833,17 @@ data/raw/car_dd/CarDD_COCO/train/002600.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002607.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002608.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002610.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002611.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002614.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002611.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002614.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002615.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002616.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002617.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002618.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002619.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002620.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002620.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002622.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002623.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002626.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002626.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002634.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002635.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002638.jpg,scratch
@@ -1423,10 +1857,10 @@ data/raw/car_dd/CarDD_COCO/train/002645.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002648.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002649.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002650.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002651.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002651.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002652.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002653.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002657.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002657.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002658.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002659.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002660.jpg,dent
@@ -1443,11 +1877,11 @@ data/raw/car_dd/CarDD_COCO/train/002676.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002677.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002678.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002679.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002680.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002680.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002681.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002683.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002684.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002686.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002684.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002686.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002687.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002688.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002689.jpg,scratch
@@ -1456,7 +1890,9 @@ data/raw/car_dd/CarDD_COCO/train/002691.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002692.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002693.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002696.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002698.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002697.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002698.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002699.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002700.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002701.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002702.jpg,scratch
@@ -1464,24 +1900,30 @@ data/raw/car_dd/CarDD_COCO/train/002703.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002704.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002705.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002706.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/002709.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002708.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002709.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002710.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002711.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002712.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002712.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002713.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002714.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002715.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002717.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002718.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002717.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002718.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002719.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002720.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002722.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002723.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002724.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002725.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002727.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002727.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002731.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002732.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/002733.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002734.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002735.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002736.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002737.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002738.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002739.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002740.jpg,dent
@@ -1499,13 +1941,13 @@ data/raw/car_dd/CarDD_COCO/train/002756.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002758.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002759.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002760.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002761.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002761.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002762.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002763.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002764.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002765.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002768.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002769.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002768.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002769.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002770.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002771.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002772.jpg,dent
@@ -1529,9 +1971,9 @@ data/raw/car_dd/CarDD_COCO/train/002796.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002797.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002798.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002799.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002800.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002800.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002802.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002806.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002806.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002807.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002808.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002809.jpg,scratch
@@ -1541,16 +1983,16 @@ data/raw/car_dd/CarDD_COCO/train/002813.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002818.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002819.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002820.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002821.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002821.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002823.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002824.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002831.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002831.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002832.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002835.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002836.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002837.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002838.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002839.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002839.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002840.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002841.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002842.jpg,scratch
@@ -1564,7 +2006,7 @@ data/raw/car_dd/CarDD_COCO/train/002850.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002851.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002853.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002854.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002855.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002855.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002856.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002857.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002860.jpg,dent
@@ -1581,14 +2023,14 @@ data/raw/car_dd/CarDD_COCO/train/002876.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002877.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002878.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002880.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002883.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002883.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002884.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002885.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002886.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002888.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002889.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002890.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002891.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002890.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002891.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002894.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002896.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002897.jpg,dent
@@ -1600,36 +2042,38 @@ data/raw/car_dd/CarDD_COCO/train/002904.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002905.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002906.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002907.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002910.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002911.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002910.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002911.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002912.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002913.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002915.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002916.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002917.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002918.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002919.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002920.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002919.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002920.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002921.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002926.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002927.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002927.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002928.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002929.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002930.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002932.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002932.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002935.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002936.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002937.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002938.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002939.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002940.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002939.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002940.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002941.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002942.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002942.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002943.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002944.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002944.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002945.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002947.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002948.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002949.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002950.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002950.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002951.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002952.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002955.jpg,scratch
@@ -1642,10 +2086,10 @@ data/raw/car_dd/CarDD_COCO/train/002963.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002964.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002965.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002966.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002967.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002968.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002969.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002970.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002967.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002968.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002969.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002970.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002971.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002972.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002973.jpg,dent
@@ -1654,25 +2098,29 @@ data/raw/car_dd/CarDD_COCO/train/002975.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002976.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002977.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002978.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002979.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002979.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002980.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/002983.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002981.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002982.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002983.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002984.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/002985.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002989.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/002990.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/002993.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002994.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/002995.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/002994.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/002995.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/002997.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002998.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/002999.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003000.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003001.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003002.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003002.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003003.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003004.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003005.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003006.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003007.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003007.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003008.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003009.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003010.jpg,scratch
@@ -1680,33 +2128,120 @@ data/raw/car_dd/CarDD_COCO/train/003012.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003013.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003014.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003015.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/003016.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003022.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003016.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003022.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003023.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003036.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003024.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003025.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003026.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003030.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003031.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003032.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003033.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003034.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003035.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003036.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003037.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/003038.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003040.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003043.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003044.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003045.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003046.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003047.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003048.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003049.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003052.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003053.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003055.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003056.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003057.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003058.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003059.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003060.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003061.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003065.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003066.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003067.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003068.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003069.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003070.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003072.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003075.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003076.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003077.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003078.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003079.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003080.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003081.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003085.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003086.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003088.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003089.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003091.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003092.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/003095.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003096.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003104.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003093.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003094.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003095.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003096.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003097.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003098.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003103.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003104.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003105.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003106.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003107.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003108.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003108.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003111.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003112.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003113.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003114.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003117.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003118.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/003128.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003130.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003119.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003120.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003121.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003122.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003123.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003126.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003128.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003129.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003130.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003131.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003132.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003133.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003134.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003135.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003136.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003137.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003138.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003139.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003144.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003145.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003146.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003147.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003147.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003148.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003149.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003177.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003150.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003151.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003152.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003153.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003154.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003155.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003159.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003160.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003161.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003162.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003163.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003164.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003165.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003169.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003170.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003171.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003172.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003173.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003174.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003177.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003178.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003179.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003181.jpg,dent
@@ -1717,9 +2252,21 @@ data/raw/car_dd/CarDD_COCO/train/003186.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003188.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003189.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003190.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003191.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003192.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003193.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003194.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003195.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003197.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003202.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003198.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003199.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003202.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003207.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003208.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/003209.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003210.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003211.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003212.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003215.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003216.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003217.jpg,scratch
@@ -1727,56 +2274,130 @@ data/raw/car_dd/CarDD_COCO/train/003218.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003219.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003220.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003221.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/003223.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003223.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003224.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003225.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003227.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003228.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003229.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003230.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003231.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003232.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003236.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003237.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003238.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003252.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003260.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003269.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003275.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003239.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003240.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003241.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003242.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/003243.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003249.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003250.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003251.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003252.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003253.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003254.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003255.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003260.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003261.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003262.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003263.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003264.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003265.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003266.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003267.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003269.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003272.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003273.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003275.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003276.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003277.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/003279.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003278.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003279.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003280.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003281.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/003282.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003282.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003286.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003287.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003288.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003293.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003294.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003298.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003299.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003300.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003304.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003305.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003308.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003306.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003307.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003308.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003310.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003311.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003312.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003313.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003314.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003315.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003319.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003320.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003321.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003322.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003323.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003324.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003325.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003326.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003330.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003331.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003332.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003333.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003334.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003335.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/003336.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003337.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003339.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/003341.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003342.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003343.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003344.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003346.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003347.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003349.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003350.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003351.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003352.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003347.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003349.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003350.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003351.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003352.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003353.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003356.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003357.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003358.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003359.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003360.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003361.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003363.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003364.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003365.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003383.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003365.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003366.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003374.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003375.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003376.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003377.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003378.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003379.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003380.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003381.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003383.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003384.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003385.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003386.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003387.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003388.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003389.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003390.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003391.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003393.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003394.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003396.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/003400.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003401.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003403.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003398.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/003400.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003401.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003403.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003404.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003405.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003406.jpg,scratch
@@ -1790,7 +2411,7 @@ data/raw/car_dd/CarDD_COCO/train/003416.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003417.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003419.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003420.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003421.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003421.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003422.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003423.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003425.jpg,scratch
@@ -1799,27 +2420,31 @@ data/raw/car_dd/CarDD_COCO/train/003430.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003435.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003436.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003437.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003439.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003440.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003439.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003440.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003443.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003444.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003446.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003449.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003449.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003452.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003453.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003455.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003456.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003458.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003458.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003459.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003460.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003461.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003462.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003463.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003465.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003466.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003468.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003469.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003471.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003471.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003473.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003476.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003480.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003483.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003483.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003484.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003485.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003486.jpg,scratch
@@ -1840,8 +2465,8 @@ data/raw/car_dd/CarDD_COCO/train/003507.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003508.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003509.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003511.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003513.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003514.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003513.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/003514.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003515.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003517.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003518.jpg,scratch
@@ -1851,7 +2476,7 @@ data/raw/car_dd/CarDD_COCO/train/003522.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003523.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003524.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003525.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003526.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003526.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003527.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003528.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003529.jpg,scratch
@@ -1862,8 +2487,9 @@ data/raw/car_dd/CarDD_COCO/train/003536.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003537.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003538.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003539.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003540.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003544.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003545.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003545.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003546.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003547.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003548.jpg,dent
@@ -1875,18 +2501,18 @@ data/raw/car_dd/CarDD_COCO/train/003557.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003558.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003559.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003560.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003563.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003563.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003564.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003565.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003566.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003566.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003567.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003568.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003569.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003569.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003570.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003571.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003571.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003572.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/003575.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003578.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003575.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/003578.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003579.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003580.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003581.jpg,scratch
@@ -1894,24 +2520,24 @@ data/raw/car_dd/CarDD_COCO/train/003582.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003583.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003584.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003585.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/003587.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003587.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003588.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003591.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003592.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003593.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003593.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003595.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003596.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003596.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003597.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003598.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003599.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003600.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003601.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003602.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003602.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003603.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003604.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003605.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003606.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003607.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003607.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003608.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003609.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003610.jpg,scratch
@@ -1930,13 +2556,13 @@ data/raw/car_dd/CarDD_COCO/train/003625.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003628.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003629.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003630.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003631.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003631.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003632.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003633.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003638.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003639.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003640.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003641.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003641.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003642.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003643.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003644.jpg,scratch
@@ -1946,12 +2572,12 @@ data/raw/car_dd/CarDD_COCO/train/003647.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003648.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003652.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003653.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003654.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003654.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003655.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003660.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003661.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003662.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003663.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003663.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003664.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003665.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003666.jpg,scratch
@@ -1969,6 +2595,7 @@ data/raw/car_dd/CarDD_COCO/train/003680.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003681.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003682.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003685.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003686.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003687.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003688.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003689.jpg,dent
@@ -1989,41 +2616,79 @@ data/raw/car_dd/CarDD_COCO/train/003718.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003719.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003723.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003724.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003725.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003725.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003726.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003727.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003728.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003729.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003730.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003731.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003732.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003733.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003736.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003737.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003738.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003739.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003740.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003741.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/003742.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003742.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003746.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003747.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/003750.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003750.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003751.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003752.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003756.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003752.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003754.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003755.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003756.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003757.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003758.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003759.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003760.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003761.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/003764.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003762.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003763.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003764.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003765.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003766.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003767.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003771.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003772.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003773.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003774.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/003778.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003779.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003780.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003775.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003776.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003777.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003778.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003779.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003780.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003781.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003784.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003786.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003787.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003788.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003790.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003791.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003792.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003794.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003797.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003798.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003799.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003800.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003801.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003802.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003803.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003807.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003808.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003809.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003810.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003811.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003814.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003815.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003816.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/003817.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003819.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003820.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/003821.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003821.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003822.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003824.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003825.jpg,dent
@@ -2036,64 +2701,117 @@ data/raw/car_dd/CarDD_COCO/train/003839.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003841.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003844.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003845.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/003846.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003846.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003847.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003848.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003848.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003850.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/003852.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003853.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003851.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003852.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003853.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003854.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003855.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003856.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003857.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003860.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003861.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003861.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003862.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003863.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003864.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003865.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003866.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/003867.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003867.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003868.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003869.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003870.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003871.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003873.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003883.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003884.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003886.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003877.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003878.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003880.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003881.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003882.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003883.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003884.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003885.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003886.jpg,tire flat
 data/raw/car_dd/CarDD_COCO/train/003888.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003890.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003891.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003892.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003893.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003894.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003895.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/003897.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003898.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003899.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003907.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003900.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003901.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003902.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003903.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003904.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003907.jpg,crack
+data/raw/car_dd/CarDD_COCO/train/003911.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003913.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003914.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003915.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003916.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003917.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003918.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003919.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003920.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003921.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003922.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003923.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003924.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003926.jpg,tire flat
+data/raw/car_dd/CarDD_COCO/train/003927.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003928.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003932.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003931.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003932.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003933.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003934.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003936.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003937.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003939.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003941.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003943.jpg,scratch
-data/raw/car_dd/CarDD_COCO/train/003944.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003940.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003941.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003942.jpg,lamp broken
+data/raw/car_dd/CarDD_COCO/train/003943.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003944.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/003945.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003946.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003949.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003950.jpg,crack
 data/raw/car_dd/CarDD_COCO/train/003951.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003952.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003953.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003954.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003955.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003957.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003958.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003964.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/003965.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003965.jpg,lamp broken
 data/raw/car_dd/CarDD_COCO/train/003968.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003969.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003970.jpg,dent
-data/raw/car_dd/CarDD_COCO/train/003978.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003971.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003972.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003973.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003974.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003975.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003976.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003978.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003979.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003980.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003981.jpg,dent
 data/raw/car_dd/CarDD_COCO/train/003983.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003984.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003985.jpg,scratch
 data/raw/car_dd/CarDD_COCO/train/003986.jpg,scratch
+data/raw/car_dd/CarDD_COCO/train/003987.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003988.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003989.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003990.jpg,glass shatter
+data/raw/car_dd/CarDD_COCO/train/003997.jpg,glass shatter
 data/raw/car_dd/CarDD_COCO/train/003998.jpg,crack
-data/raw/car_dd/CarDD_COCO/train/004000.jpg,dent
+data/raw/car_dd/CarDD_COCO/train/004000.jpg,tire flat
