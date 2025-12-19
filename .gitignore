@@ -12,4 +12,7 @@ data/processed/*
 models/*.pt
 models/*.pth
 
+reports/binary_errors/fn/*
+reports/binary_errors/hard_pos/*
+
 .DS_Store
