@@ -1,0 +1,80 @@
+{
+  "model_name": "mobilenet_v3_small",
+  "task": "damage_type_classification",
+  "image_size": 224,
+  "classes": [
+    "scratch",
+    "dent",
+    "crack",
+    "glass shatter",
+    "lamp broken",
+    "tire flat"
+  ],
+  "label_to_idx": {
+    "scratch": 0,
+    "dent": 1,
+    "crack": 2,
+    "glass shatter": 3,
+    "lamp broken": 4,
+    "tire flat": 5
+  },
+  "idx_to_label": {
+    "0": "scratch",
+    "1": "dent",
+    "2": "crack",
+    "3": "glass shatter",
+    "4": "lamp broken",
+    "5": "tire flat"
+  },
+  "test_macro_f1": 0.6696403339728741,
+  "confusion_matrix": [
+    [
+      75,
+      24,
+      6,
+      0,
+      5,
+      2
+    ],
+    [
+      13,
+      82,
+      2,
+      4,
+      8,
+      0
+    ],
+    [
+      9,
+      7,
+      5,
+      0,
+      2,
+      0
+    ],
+    [
+      0,
+      5,
+      0,
+      53,
+      0,
+      0
+    ],
+    [
+      6,
+      16,
+      1,
+      1,
+      21,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      26
+    ]
+  ]
+}
