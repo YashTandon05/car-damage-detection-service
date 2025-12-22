@@ -5,6 +5,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
 ![Inference](https://img.shields.io/badge/Inference-CPU--only-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Research%20%2F%20Prototype-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 A production-style computer vision service that detects whether a car image contains damage and optionally classifies the type of damage.
 
