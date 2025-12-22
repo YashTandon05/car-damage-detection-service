@@ -1,0 +1,18 @@
+{
+    "damage_detected": true,
+    "damage_confidence": 0.6932753920555115,
+    "damage_type": "crack",
+    "type_confidence": 0.49080321192741394,
+    "top_2_types": [
+      {
+        "label": "crack",
+        "confidence": 0.49080321192741394
+      },
+      {
+        "label": "lamp broken",
+        "confidence": 0.2932099401950836
+      }
+    ],
+    "model_version": "1.0.0",
+    "latency_ms": 161
+}

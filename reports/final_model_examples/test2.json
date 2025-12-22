@@ -1,0 +1,18 @@
+{
+    "damage_detected": true,
+    "damage_confidence": 0.9973949193954468,
+    "damage_type": "glass shatter",
+    "type_confidence": 0.9418338537216187,
+    "top_2_types": [
+      {
+        "label": "glass shatter",
+        "confidence": 0.9418338537216187
+      },
+      {
+        "label": "dent",
+        "confidence": 0.026244478300213814
+      }
+    ],
+    "model_version": "1.0.0",
+    "latency_ms": 316
+}

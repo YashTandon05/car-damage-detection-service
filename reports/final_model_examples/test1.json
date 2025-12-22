@@ -1,0 +1,9 @@
+{
+    "damage_detected": false,
+    "damage_confidence": 0.00013466876407619566,
+    "damage_type": null,
+    "type_confidence": null,
+    "top_2_types": null,
+    "model_version": "1.0.0",
+    "latency_ms": 260
+}
